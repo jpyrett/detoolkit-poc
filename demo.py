@@ -5,4 +5,4 @@ spark = SparkSession\
 
 print("Testing simple count")
 # The Spark code will execute on the Databricks cluster.
-print(spark.range(100).count()) 
+print(spark.range(100).count())
